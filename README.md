@@ -22,7 +22,7 @@ PT 예약 신청을 하면, 트레이너가 해당 예약을 수락할지 거절
 
 
 
-
+<img src="https://user-images.githubusercontent.com/36123687/87620509-b7546680-c759-11ea-907e-9c11e1458437.png" width="90%"></img>
 
 
 
