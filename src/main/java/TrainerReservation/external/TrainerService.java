@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import java.util.Date;
 
-@FeignClient(name="Trainer", url="http://localhost:8082")
+@FeignClient(name="Trainer", url="http://Trainer:8080")
 public interface TrainerService {
 
     @RequestMapping(method= RequestMethod.POST, path="/postTrainers")
